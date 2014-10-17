@@ -3,8 +3,16 @@ taskerVoiceCommands
 
 Learning Tasker by understanding what others have done and building something to help me interact with my phone using voice commands.
 
+Requirements:
+Tasker
+  http://tasker.dinglisch.net/
+  https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm
+Google Play app
+  https://play.google.com/store/apps/details?id=com.google.android.music
+
+
 It should:
-  While screen is locked
-    Play, skip, shuffle all music
-    Speak the time of day whenever asked
-    Let me ask things like, "How far is it to work?" while assuming I mean from where I am.
+  While screen is locked (or, disable lock screen while headphones/mic are plugged in)
+    1. Voice activated shuffle all music, skip (downloaded music only)
+    2. Speak the time of day whenever asked
+    9. Let me ask things like, "How far is it to work?" while assuming I mean from where I am.
