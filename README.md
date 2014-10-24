@@ -3,6 +3,13 @@ taskerVoiceCommands
 
 Learning Tasker by understanding what others have done and building something to help me interact with my phone using voice commands.
 
+Edit:
+I just learned about AutoVoice. It may just do everything I was going to try to build from scratch.
+  https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice&hl=en
+  http://lifehacker.com/autovoice-now-lets-you-create-custom-google-now-command-1607156863
+  http://joaoapps.com/autovoice/faq/
+  http://www.androidcentral.com/tasker-advanced-use
+  
 Requirements:
 Tasker
   http://tasker.dinglisch.net/
